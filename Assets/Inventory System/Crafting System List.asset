@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7471b3dda078cb848ba3766f86d5eb94, type: 3}
+  m_Name: Crafting System List
+  m_EditorClassIdentifier: 
+  RecipeList:
+  - {fileID: 11400000, guid: cdae7128e658f9c48b6c42d7cc88f48f, type: 2}
+  - {fileID: 11400000, guid: 3d79864f3126bed4c8e7d1394d92199a, type: 2}
+  - {fileID: 11400000, guid: 499326a7885ac7e4dbbb967067751614, type: 2}
+  - {fileID: 11400000, guid: 39e76d8bbd22b944f9f68c65abd58e90, type: 2}
+  - {fileID: 11400000, guid: fbced605c1de56c48910e8f7621ca898, type: 2}
+  - {fileID: 11400000, guid: 304fcc5f9a7ecec47b2fcbb483e88fbb, type: 2}
